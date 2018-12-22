@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trysss newbranch
+=======
+Ohe. Essay sur 'another branch'!
+>>>>>>> anotherbranch
