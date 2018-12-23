@@ -3,3 +3,6 @@ trysss newbranch
 =======
 Ohe. Essay sur 'another branch'!
 >>>>>>> anotherbranch
+
+
+stash test
